@@ -12,13 +12,13 @@
   <body>
   <script>
       function play() {
-        var audio = document.getElementById("audio");
-        audio.play();
+        var audio = document.getElementById("audio"); //gets the audio element
+        audio.play(); //plays audio
       }
     </script>
 
-    <img src=GAH.png onclick="play()">
-    <audio id="audio" src="yuppah.mp3"></audio>
+    <img src=GAH.png onclick="play()"> <!-- runs play(). change image source to play button -->
+    <audio id="audio" src="yuppah.mp3"></audio> <!-- sets the audio's id (important for js). change src to mp3 audio -->
 
   </body>
 </html>
