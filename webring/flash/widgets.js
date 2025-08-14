@@ -7,7 +7,8 @@ webring = {
   // list of sites in the ring
   sites: [
     "https://thepersonever.net/",
-	"https://saturnbuddy.com/"
+    "https://saturnbuddy.com/",
+    "https://zeroxmachine.neocities.org/"
   ],
 
   // html inserted as your widget
