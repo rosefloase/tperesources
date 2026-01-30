@@ -8,7 +8,7 @@ webring = {
   sites: [
     "https://thepersonever.net/",
     "https://saturnbuddy.com/",
-    "https://zeroxmachine.xo.je/",
+    "https://zeroxmachine.neocities.org/",
     "https://baccyflap.com",
   ],
 
