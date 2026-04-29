@@ -10,7 +10,8 @@ webring = {
     "https://saturnbuddy.com/",
     "https://zeroxmachine.neocities.org/",
     "https://baccyflap.com",
-    "https://lucastheguy.nekoweb.org/"
+    "https://lucastheguy.nekoweb.org/",
+    "https://termotanquedeleche.neocities.org/"
   ],
 
   // html inserted as your widget
